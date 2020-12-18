@@ -3,3 +3,4 @@ build
 chain
 .idea/
 logs.txt
+test-results.xml
